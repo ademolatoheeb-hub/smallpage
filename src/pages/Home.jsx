@@ -7,7 +7,6 @@ function Home(){
     <div style={{
       fontFamily: "ui-sans-serif",
       background: "#f1f1f1",
-      color: "#777"
     }}>
       <p>Hello! Welcome to my page.</p>
       <h3>Count: {count}</h3>
